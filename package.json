@@ -1,0 +1,1 @@
+{"description":"Famous Last Words at 1 Percent — a phone's one-line farewell for make.fun","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-famous-last-words-1-percent-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
